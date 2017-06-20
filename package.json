@@ -1,6 +1,6 @@
 {
   "name": "lagload",
-  "version": "1.0.7",
+  "version": "0.0.0",
   "description": "A nodejs extionsions library to inject includes after load.",
   "author": "rbuas <rodrigobuas@gmail.com>",
   "keywords": [
