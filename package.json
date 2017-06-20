@@ -1,6 +1,6 @@
 {
   "name": "lagload",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A nodejs extionsions library to inject includes after load.",
   "author": "rbuas <rodrigobuas@gmail.com>",
   "keywords": [
@@ -16,10 +16,7 @@
     "type": "git",
     "url": "http://github.com/rbuas/lagload.git"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "scripts": {
-  }
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
 }
