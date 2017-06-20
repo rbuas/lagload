@@ -1,6 +1,6 @@
 {
   "name": "lagload",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A nodejs extionsions library to inject includes after an event like document ready or page load.",
   "author": "rbuas <rodrigobuas@gmail.com>",
   "keywords": [
