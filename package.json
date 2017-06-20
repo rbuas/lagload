@@ -1,27 +1,25 @@
 {
-  "name": "jsext",
+  "name": "lagload",
   "version": "1.0.7",
-  "description": "A nodejs extionsions library to manipulate basic js structures.",
+  "description": "A nodejs extionsions library to inject includes after load.",
   "author": "rbuas <rodrigobuas@gmail.com>",
   "keywords": [
     "js",
-    "extensions"
+    "extensions",
+    "lag load",
+    "lazy load",
+    "defer"
   ],
   "license": "MIT",
-  "main": "./jsext",
+  "main": "./lagload",
   "repository": {
     "type": "git",
-    "url": "http://github.com/rbuas/jsext.git"
+    "url": "http://github.com/rbuas/lagload.git"
   },
   "dependencies": {
-    "chalk": "^1.1.3"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3",
-    "yargs": "^4.8.0"
   },
   "scripts": {
-    "unittest": "mocha *.unittest.js"
   }
 }
